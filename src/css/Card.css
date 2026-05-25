@@ -1,0 +1,18 @@
+.card {
+    text-align: left;
+
+    min-width: 40vw;
+    height: 40em;
+
+    display: block; 
+    box-sizing: border-box;  
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-bottom: 3em;
+    padding-left: 3vw;
+    padding-right: 0vw;
+    padding-top: 2vh;
+    
+    border-radius: var(--border-radius);
+    box-shadow: 4.2px 8.3px 8.3px hsl(0deg 0% 0% / 0.37);
+}

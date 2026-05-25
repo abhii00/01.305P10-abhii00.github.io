@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="466"
+   height="309"
+   viewBox="0 0 123.29598 81.756302"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="Mail.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.64000001"
+     inkscape:cx="171.875"
+     inkscape:cy="357.81249"
+     inkscape:window-width="1440"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="1433"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 123.50308,23.369538 64.054423,63.827679 c -0.701635,0.477501 -1.466882,0.679016 -2.196395,0.631001 -0.72944,0.04796 -1.494834,-0.15355 -2.196393,-0.631001 L 0.3219176,23.443685 v 46.306618 c 0,6.712387 5.403717,12.116117 12.1161044,12.116117 h 98.948958 c 6.71239,0 12.1161,-5.40373 12.1161,-12.116117 z"
+       style="fill:#1a1a1a;stroke-width:0.387376"
+       id="path12" />
+    <path
+       d="m 12.438022,0.41899688 c -6.7123874,0 -12.1161044,5.40372022 -12.1161044,12.11610612 v 1.574473 c 0.1838177,0.08582 0.3652132,0.188809 0.5424782,0.309447 L 61.858028,55.928831 122.85243,14.419023 c 0.21215,-0.144374 0.42958,-0.263224 0.65065,-0.357869 v -1.526051 c 0,-6.7123859 -5.40371,-12.11610612 -12.1161,-12.11610612 z"
+       style="fill:#1a1a1a;stroke-width:0.387376"
+       id="path9" />
+  </g>
+</svg>

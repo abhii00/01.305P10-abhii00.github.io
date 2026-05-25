@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  font-family: Inter Tight;
+  font-weight: 400;
+
+  --col1: #F7F9F9;
+  --col2: #272838;
+  --col3: #EE964B;
+
+  --color-bg: var(--col1);
+  --color-accent: var(--col3);
+  --color-font: var(--col2);
+  --color-font-hl: var(--col3);
+
+  --border-radius: 20px;
+  --border-width: 2px;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  font-size: 72px;
+  line-height: 36px;
+}
+
+h2 {
+  font-size: 48px;
+  line-height: 28px;
+}
+
+h3 {
+  font-size: 32px;
+  line-height: 24px;
+}
+
+h4 {
+  font-size: 28px;
+  line-height: 18px;
+}
+
+h5 {
+  font-size: 24px;
+  line-height: 14px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 14px;
+}
+
+.accent {
+  color: var(--color-accent);
+}

@@ -1,36 +1,18 @@
-# **Portfolio**
+# React + Vite
 
-:white_check_mark: WORK PLANNED :white_check_mark:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-A portfolio website displaying my projects.
+Currently, two official plugins are available:
 
-_July - October 2021_
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-```REACTJS, THREEJS, SASS```
+## React Compiler
 
-## **Features** 
+The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-### **Implemented Features**
+Note: This will impact Vite dev & build performances.
 
-* Animated introductions using ThreeJS, with models made in Blender.
-* Responsive design for mobile, tablet and desktop.
-* CSS Animations for loading, unloading and user interactions.
-* Cohesive aesthetic design.
-* Concise and effective display of work, experience and projects.
+## Expanding the ESLint configuration
 
-### **Planned Features**
-
-* Multiple different introduction animations.
-
-## **Skills**
-
-### **New Skills**
-
-* SASS.
-* Blender modelling.
-
-### **Skills Developed**
-
-* ReactJS and ThreeJS.
-* Aesthetic design.
-* User interfaces and Frontend design.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

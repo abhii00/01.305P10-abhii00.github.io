@@ -1,0 +1,16 @@
+.bar {
+    height: 5em;
+    width: 100vw;
+
+    display: block;
+    box-sizing: border-box;
+    padding-left: 1em;
+    padding-top: 0.5em;
+
+    background-color: var(--color-accent);
+}
+
+.bar .icon {
+    height: 3.5em;
+    aspect-ratio: 1 / 1;
+}
