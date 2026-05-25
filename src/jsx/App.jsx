@@ -30,19 +30,19 @@ export default function App() {
       <Page id="portfolio">
         <Card> 
           <h4> Experience </h4> 
-          <PortfolioItem icon={tasIcon} date={"2023 - Present"} role={"Propulsion Systems Engineer"} organisation={"Thales Alenia Space UK"}/>
-          <PortfolioItem icon={logoIcon} date={"2022 - Present"} role={"Engineering / STEM Tutor"} organisation={"Various Organisations"}/> 
+          <PortfolioItem icon={tasIcon} date={"2023 - Now"} role={"Propulsion Systems Engineer"} organisation={"Thales Alenia Space UK"}/>
+          <PortfolioItem icon={logoIcon} date={"2022 - Now"} role={"Engineering / STEM Tutor"} organisation={"Various Organisations"}/> 
           <PortfolioItem icon={jplIcon} date={"2022"} role={"Visiting Student Researcher"} organisation={"Mission Design and Navigation Intern"}/> 
           <PortfolioItem icon={tasIcon} date={"2021"} role={"Propulsion Intern"} organisation={"Thales Alenia Space UK"}/>
-          <PortfolioItem icon={selwynIcon} date={"2019 - 2023"} role={"BA, MEng in Engineering"} organisation={"Selwyn College, University of Cambridge"}/>
+          <PortfolioItem icon={selwynIcon} date={"2019 - 23"} role={"BA, MEng in Engineering"} organisation={"Selwyn College, University of Cambridge"}/>
         </Card>
         <Card> 
           <h4> Projects </h4>  
-          <PortfolioItem icon={scesIcon} date={"2022 - 2023"} role={"President"} organisation={"Selwyn College Engineering Society"}/> 
-          <PortfolioItem icon={zgIcon} date={"2021 - 2023"} role={"Mentor"} organisation={"Zero Gravity"}/>
-          <PortfolioItem icon={cusfIcon} date={"2020 - 2023"} role={"White Dwarf Propulsion Engineer / President"} organisation={"Cambridge University Spaceflight"}/>
-          <PortfolioItem icon={camIcon} date={"2020 - 2023"} role={"IB - IIB Representative / President"} organisation={"CUED Staff-Student Joint Committee"}/>
-          <PortfolioItem icon={logoIcon} date={"2019 - 2022"} role={"Orbit & Landing Simulator and Earth Observation Visualiser"} organisation={"JavaScript, Python, C++"}/> 
+          <PortfolioItem icon={scesIcon} date={"2022 - 23"} role={"President"} organisation={"Selwyn College Engineering Society"}/> 
+          <PortfolioItem icon={zgIcon} date={"2021 - 23"} role={"Mentor"} organisation={"Zero Gravity"}/>
+          <PortfolioItem icon={cusfIcon} date={"2020 - 23"} role={"White Dwarf Propulsion Engineer / President"} organisation={"Cambridge University Spaceflight"}/>
+          <PortfolioItem icon={camIcon} date={"2020 - 23"} role={"IB - IIB Representative / President"} organisation={"CUED Staff-Student Joint Committee"}/>
+          <PortfolioItem icon={logoIcon} date={"2019 - 22"} role={"Orbit & Landing Simulator and Earth Observation Visualiser"} organisation={"JavaScript, Python, C++"}/> 
         </Card>
       </Page>
       <Page id="contact">

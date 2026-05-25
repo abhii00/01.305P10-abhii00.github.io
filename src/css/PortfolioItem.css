@@ -1,29 +1,28 @@
 .portfolioitem {
     width: 90%;
-    min-width: 20%;
 
     display: grid;
-    grid-template-columns: 12% 58% 30%;
+    grid-template-columns: 10% 65% 25%;
     grid-auto-rows: auto;
-    margin: 0 0 0.5em 0;
-    justify-content: center;
+    margin: 0 auto 0.5em auto;
+    place-items: center;
 }
 
 .roleorganisationcontainer {
   box-sizing: border-box;
   width: 100%;
-  padding: 0 2em 0 2em;
+  padding: 0 1em 0 1em;
 }
 
 .portfolioitem .icon {
-  height: 3.5em;
-  width: 3.5em;
+  height: min(3.5em, 8vw);
+  width: min(3.5em, 8vw);
   border-radius: 0.4em;
 }
 
 .role {
-  font-size: 18px;
-  line-height: 16px;
+  font-size: min(18px, 4vw);
+  line-height: min(18px, 4vw);
   font-weight: 600;
   color: var(--color-font-hl);
 
@@ -31,16 +30,16 @@
 }
 
 .organisation {
-  font-size: 16px;
-  line-height: 16px;
+  font-size: min(16px, 3.5vw);
+  line-height: min(16px, 3.5vw);
   font-weight: 400;
   
   margin: 1em 0 1em 0;
 }
 
 .date {
-  font-size: 16px;
-  line-height: 28px;
-  text-align: right;
+  font-size: min(16px, 4vw);
+  line-height: min(16px, 4vw);
+  text-align: center;
   font-weight: 400;
 }

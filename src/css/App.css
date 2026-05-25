@@ -4,12 +4,12 @@
 
 #landing h1 {
     color: var(--color-font);
-    font-size: 192px;
+    font-size: min(192px, 20vw);
     line-height: 14px;
 }
 
 #landing h2 {
-    font-size: 32px;
+    font-size: min(32px, 6vw);
     line-height: 0px;
     color: var(--color-font-hl);
 }
@@ -18,7 +18,7 @@
     width: 100vw;
 
     display: grid;
-    grid-template-columns: repeat( auto-fit, minmax(50em, 50%) );
+    grid-template-columns: repeat( auto-fit, minmax(24em, 50%) );
     justify-content: center;
 }
 

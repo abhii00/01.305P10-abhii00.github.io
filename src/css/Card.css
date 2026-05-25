@@ -2,17 +2,16 @@
     text-align: left;
 
     min-width: 40vw;
-    height: 40em;
+    min-height: 40em;
 
     display: block; 
     box-sizing: border-box;  
     margin-left: 3vw;
     margin-right: 3vw;
     margin-bottom: 3em;
-    padding-left: 3vw;
-    padding-right: 0vw;
+    padding-left: 2vw;
     padding-top: 2vh;
     
-    border-radius: var(--border-radius);
+    border-radius: 20px;
     box-shadow: 4.2px 8.3px 8.3px hsl(0deg 0% 0% / 0.37);
 }
