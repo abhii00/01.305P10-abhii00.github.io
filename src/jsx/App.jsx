@@ -32,7 +32,7 @@ export default function App() {
           <h4> Experience </h4> 
           <PortfolioItem icon={tasIcon} date={"2023 - Now"} role={"Propulsion Systems Engineer"} organisation={"Thales Alenia Space UK"}/>
           <PortfolioItem icon={logoIcon} date={"2022 - Now"} role={"Engineering / STEM Tutor"} organisation={"Various Organisations"}/> 
-          <PortfolioItem icon={jplIcon} date={"2022"} role={"Visiting Student Researcher"} organisation={"Mission Design and Navigation Intern"}/> 
+          <PortfolioItem icon={jplIcon} date={"2022"} role={"Visiting Student Researcher"} organisation={"NASA Jet Propulsion Laboratory"}/> 
           <PortfolioItem icon={tasIcon} date={"2021"} role={"Propulsion Intern"} organisation={"Thales Alenia Space UK"}/>
           <PortfolioItem icon={selwynIcon} date={"2019 - 23"} role={"BA, MEng in Engineering"} organisation={"Selwyn College, University of Cambridge"}/>
         </Card>
