@@ -7,11 +7,13 @@
   --col1: #F7F9F9;
   --col2: #272838;
   --col3: #EE964B;
+  --col4: #f6f5f5;
 
   --color-bg: var(--col1);
   --color-accent: var(--col3);
   --color-font: var(--col2);
   --color-font-hl: var(--col3);
+  --color-card: var(--col4);
 
 }
 

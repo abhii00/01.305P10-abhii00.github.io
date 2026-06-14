@@ -24,8 +24,9 @@ export default function App() {
         <img src={logoIcon} class='icon' alt=''/>
       </Bar>
       <Page id="landing">
-        <h1> abhii00 </h1>
-        <h2> making (my) dreams come true </h2>
+        <h2> hi, I'm </h2>
+        <h1> abhi </h1>
+        <h2> and I'm making (my) dreams come true </h2>
       </Page>
       <Page id="portfolio">
         <Card> 

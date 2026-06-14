@@ -13,5 +13,5 @@
     padding-top: 2vh;
     
     border-radius: 20px;
-    box-shadow: 4.2px 8.3px 8.3px hsl(0deg 0% 0% / 0.37);
+    background-color: var(--color-card);
 }
