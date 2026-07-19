@@ -5,12 +5,10 @@
 #landing h1 {
     color: var(--color-font);
     font-size: min(192px, 20vw);
-    line-height: 14px;
 }
 
 #landing h2 {
     font-size: min(32px, 6vw);
-    line-height: 0px;
     color: var(--color-font-hl);
 }
 
